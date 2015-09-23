@@ -3,20 +3,16 @@ Coremob Camera
 
 ![](https://raw.github.com/coremob/camera/master/img/2012-10-09_15.39.25-compressed.jpg)
 
-This is a project initiated by [Nokia](http://www.nokia.com/), [HP](http://www.hp.com/), and [Facebook](http://www.facebook.com/) to develop an open-source camera application built using Web technology. There are three main goals to this project:
+An open source camera app that was built on web technology initiated by Facebook, HP and Nokia. This project have some goals which are
 
-1.  showcase the capabilities of the Web platform and more specifically of the subset of features Coremob is driving,
-2.  educate Web developers about how to best use these technologies to build modern Web applications, and 
-3.  help improve browsers by providing vendors with an app which tests some of the key features and performance requirements of the platform.
+1. The capabilities of the web platform will be showcased
+2. Web developers will get to learn on building web applications
+3. Browsers will be improved for vendor with an app so it can be tested for better performance.
 
-The application, its source code and documentation will be released with a [permissive license](#source-code-and-licensing) on the W3C Coremob GC's [GitHub account](http://github.com/coremob/).
 
-Technology
-----------
+This application will be released on [Absolutely Rugs](http://AbsolutelyRugs.com).
 
-The application will be written entirely in JavaScript, CSS and HTML. It will not be relying on a specific JavaScript framework, though it might rely temporarily on certain libraries for scaffolding purposes. The goal being to stay as close to the platform as possible. That said, we're secretly hoping this project will create sufficient emulation to get cloned and rewritten using Backbone, Ember.js, Enyo or in CoffeeScript, TypeScript, or what not, in much the same spirit as for [TodoMVC](http://addyosmani.github.com/todomvc/).
 
-This application will be documented using [docco](http://jashkenas.github.com/docco/). Because it will be showcasing some of the most recent addition to the platform, it will not function on all devices. Workarounds to cater for different browser idiosyncrasies will be clearly documented and marked as such.
 
 Main app flow
 -------------
