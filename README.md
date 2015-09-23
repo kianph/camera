@@ -10,7 +10,7 @@ An open source camera app that was built on web technology initiated by Facebook
 3. Browsers will be improved for vendor with an app so it can be tested for better performance.
 
 
-This application will be released on [Absolutely Rugs](http://AbsolutelyRugs.com).
+This application will be released [here](http://AbsolutelyRugs.com).
 
 
 
